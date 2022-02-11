@@ -1,0 +1,13 @@
+.file {
+	background-color: #8B4513;
+	color:  whitesmoke;
+	padding:  15px 20px;
+	text-decoration: none;
+	
+}
+
+.files {
+	padding-bottom: 15px 20px;
+	align-items: center;
+	margin: 30px 30px;
+}

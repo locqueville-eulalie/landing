@@ -1,0 +1,16 @@
+.banner {
+	background-image:  linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/banner.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 150px 0px;
+	color: whitesmoke;
+	text-decoration-style: double;
+
+}
+  .banner p {
+  	font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  font-size: 32px;
+  margin-bottom: 100px
+  }
+
